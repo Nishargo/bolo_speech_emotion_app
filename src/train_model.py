@@ -11,7 +11,7 @@ import glob
 features = []
 labels = []
 
-# Map emotions (you may need to adjust this based on your dataset labeling)
+# Map emotions
 emotion_map = {
     '01': 'neutral',
     '02': 'calm',
