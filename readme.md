@@ -24,5 +24,11 @@ Bolo is a project from [Bolo Hamburg](https://www.f6s.com/bolo-hamburg), a ventu
 
 ### Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Nishargo/bolo_speech_emotion_app.git
+2. Navigate to the project directory:
+   cd bolo_speech_emotion_app
+3. Install dependencies:
+   pip install -r requirements.txt
+
+Run the application:
+python app.py
